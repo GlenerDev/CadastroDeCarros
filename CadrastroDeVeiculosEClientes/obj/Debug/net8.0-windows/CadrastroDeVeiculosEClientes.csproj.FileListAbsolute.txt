@@ -1,0 +1,16 @@
+C:\Users\Pichau\Desktop\Projetos\CadrastroDeVeiculosEClientes\CadrastroDeVeiculosEClientes\bin\Debug\net8.0-windows\CadrastroDeVeiculosEClientes.exe
+C:\Users\Pichau\Desktop\Projetos\CadrastroDeVeiculosEClientes\CadrastroDeVeiculosEClientes\bin\Debug\net8.0-windows\CadrastroDeVeiculosEClientes.deps.json
+C:\Users\Pichau\Desktop\Projetos\CadrastroDeVeiculosEClientes\CadrastroDeVeiculosEClientes\bin\Debug\net8.0-windows\CadrastroDeVeiculosEClientes.runtimeconfig.json
+C:\Users\Pichau\Desktop\Projetos\CadrastroDeVeiculosEClientes\CadrastroDeVeiculosEClientes\bin\Debug\net8.0-windows\CadrastroDeVeiculosEClientes.dll
+C:\Users\Pichau\Desktop\Projetos\CadrastroDeVeiculosEClientes\CadrastroDeVeiculosEClientes\bin\Debug\net8.0-windows\CadrastroDeVeiculosEClientes.pdb
+C:\Users\Pichau\Desktop\Projetos\CadrastroDeVeiculosEClientes\CadrastroDeVeiculosEClientes\obj\Debug\net8.0-windows\CadrastroDeVeiculosEClientes.Form1.resources
+C:\Users\Pichau\Desktop\Projetos\CadrastroDeVeiculosEClientes\CadrastroDeVeiculosEClientes\obj\Debug\net8.0-windows\CadrastroDeVeiculosEClientes.csproj.GenerateResource.cache
+C:\Users\Pichau\Desktop\Projetos\CadrastroDeVeiculosEClientes\CadrastroDeVeiculosEClientes\obj\Debug\net8.0-windows\CadrastroDeVeiculosEClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Projetos\CadrastroDeVeiculosEClientes\CadrastroDeVeiculosEClientes\obj\Debug\net8.0-windows\CadrastroDeVeiculosEClientes.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Projetos\CadrastroDeVeiculosEClientes\CadrastroDeVeiculosEClientes\obj\Debug\net8.0-windows\CadrastroDeVeiculosEClientes.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Projetos\CadrastroDeVeiculosEClientes\CadrastroDeVeiculosEClientes\obj\Debug\net8.0-windows\CadrastroDeVeiculosEClientes.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Projetos\CadrastroDeVeiculosEClientes\CadrastroDeVeiculosEClientes\obj\Debug\net8.0-windows\CadrastroDeVeiculosEClientes.dll
+C:\Users\Pichau\Desktop\Projetos\CadrastroDeVeiculosEClientes\CadrastroDeVeiculosEClientes\obj\Debug\net8.0-windows\refint\CadrastroDeVeiculosEClientes.dll
+C:\Users\Pichau\Desktop\Projetos\CadrastroDeVeiculosEClientes\CadrastroDeVeiculosEClientes\obj\Debug\net8.0-windows\CadrastroDeVeiculosEClientes.pdb
+C:\Users\Pichau\Desktop\Projetos\CadrastroDeVeiculosEClientes\CadrastroDeVeiculosEClientes\obj\Debug\net8.0-windows\CadrastroDeVeiculosEClientes.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Projetos\CadrastroDeVeiculosEClientes\CadrastroDeVeiculosEClientes\obj\Debug\net8.0-windows\ref\CadrastroDeVeiculosEClientes.dll
